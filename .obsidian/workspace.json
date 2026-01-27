@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation/Installation K8s.md",
+                "file": "Installation/Talos/Setup Talos OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Installation K8s"
+              "title": "Backlinks for Setup Talos OS"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installation/Installation K8s.md",
+                "file": "Installation/Talos/Setup Talos OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Installation K8s"
+              "title": "Outgoing links from Setup Talos OS"
             }
           },
           {
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,22 +175,23 @@
   "lastOpenFiles": [
     "Installation/Installation K8s (v1.34).md",
     "Installation/Talos/Setup Talos OS.md",
+    "Pasted image 20260127232432.png",
+    "Installation/Talos/images/set-proxmox/1.7.png",
+    "Installation/Talos/images/set-proxmox/1.8.png",
+    "Installation/Talos/images/set-proxmox/1.3.png",
+    "Installation/Talos/images/set-proxmox/1.2.png",
+    "Installation/Talos/images/set-proxmox/1.1.png",
     "Installation/Talos/images/talos.png",
-    "Installation/Talos/images/set-talos-static-net(1.2).png",
-    "Installation/Talos/images/set-network&hostname-in-manifest-worker(1.6.2).png",
-    "Installation/Talos/images/set-network&hostname-in-manifest-worker(1.6).png",
-    "Installation/Talos/images/hardware-talos-proxmox(1.1).png",
-    "Installation/Talos/images/consol-talos-proxmox-worker(1.7).png",
-    "Installation/Talos/images/consol-talos-proxmox(1.3).png",
-    "Installation/Talos/images/boot-masih-ke-iso(1.4).png",
-    "Installation/Talos/images/after-set-bootstrap-first-node(1.5).png",
+    "Installation/Talos/images/set-proxmox/1.6.png",
+    "Installation/Talos/images/set-proxmox/1.5.png",
+    "Installation/Talos/images/set-proxmox/1.4.png",
+    "Installation/Talos/images/set-proxmox",
     "Installation/Talos/images",
     "Installation/Talos",
     "Welcome.md",
     "2026-01-18.md",
     "Untitled.base",
     "Installation/Troubleshoot.md",
-    "Installation/images/installation.kube-install.png",
     "Untitled.md",
     "Installation",
     "ads.md",
