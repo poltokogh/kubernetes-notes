@@ -1,4 +1,4 @@
-![[talos.png]]
+![[Installation/Talos/images/talos.png]]
 # Installation Talos OS in Proxmox
 
 ## Preparation 

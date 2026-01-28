@@ -1,4 +1,4 @@
-![[installation.kube-install.png]]
+![[Installation/images/installation.kube-install.png]]
 # Cluster Installation and Configuration 
 
 ## Preparation
