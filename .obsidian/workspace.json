@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation/Talos/Setup Talos OS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup Talos OS"
+              "title": "README"
             }
           }
         ],
@@ -173,9 +173,9 @@
   },
   "active": "6124b0792627c0d7",
   "lastOpenFiles": [
+    "Installation/Talos/Setup Talos OS.md",
     "Installation/Talos/images/set-network&hostname-in-manifest-worker(1.6.1).png",
     "Installation/Installation K8s Native (v1.34).md",
-    "Installation/Talos/Setup Talos OS.md",
     "Pasted image 20260127232432.png",
     "Installation/Talos/images/set-proxmox/1.7.png",
     "Installation/Talos/images/set-proxmox/1.8.png",
@@ -185,11 +185,10 @@
     "Installation/Talos/images/talos.png",
     "Installation/Talos/images/set-proxmox/1.6.png",
     "Installation/Talos/images/set-proxmox/1.5.png",
-    "Installation/Talos/images/set-proxmox/1.4.png",
     "Installation/Talos/images/set-proxmox",
     "Installation/Talos/images",
     "Installation/Talos",
-    "Welcome.md",
+    "README.md",
     "2026-01-18.md",
     "Untitled.base",
     "Installation/Troubleshoot.md",
