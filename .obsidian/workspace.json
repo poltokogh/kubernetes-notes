@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "ac1523bee257fda4",
@@ -173,12 +173,13 @@
   },
   "active": "6124b0792627c0d7",
   "lastOpenFiles": [
+    "Installation/Talos/images/set-network&hostname-in-manifest-worker(1.6.1).png",
+    "Installation/Talos/images/consol-talos-proxmox-worker(1.7).png",
+    "Installation/Talos/Setup Talos OS.md",
     "Installation/Installation K8s Native (v1.34).md",
+    "README.md",
     "Installation/images/installation.kube-install.png",
     "Installation/Troubleshoot.md",
-    "README.md",
-    "Installation/Talos/Setup Talos OS.md",
-    "Installation/Talos/images/set-network&hostname-in-manifest-worker(1.6.1).png",
     "Pasted image 20260127232432.png",
     "Installation/Talos/images/set-proxmox/1.7.png",
     "Installation/Talos/images/set-proxmox/1.8.png",
